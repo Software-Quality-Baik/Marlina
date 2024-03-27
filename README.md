@@ -1,5 +1,3 @@
-# Marlina
-Testing untuk Software Quality
 # Daftar Pengujian
 
 | No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
