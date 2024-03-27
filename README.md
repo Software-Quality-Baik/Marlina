@@ -4,7 +4,7 @@ Testing untuk Software Quality
 
 | No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
 | --- | ------------------- | ------------------------------------------------------------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat. | User   | test1-signup_pengguna --> Login --> Dashboard | [test1](https://github.com/Software-Quality-Baik/Marlina/HealHerooApp/Test_signUpHealHeroo) |
+| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat. | User   | test1-signup_pengguna --> Login --> Dashboard | [test1](https://github.com/Software-Quality-Baik/Marlina/tree/main/HealHerooApp/Test_signUpHealHeroo) |
 
 # Panduan Penggunaan
 

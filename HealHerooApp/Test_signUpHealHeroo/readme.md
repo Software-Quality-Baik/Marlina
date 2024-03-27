@@ -2,7 +2,7 @@
 
 | Objek Pengujian | Hasil      | Lampiran                                                      |
 | --------------- | ---------- | ------------------------------------------------------------- |
-| Sign Up Pengguna | Berhasil ✔ | [dokumentasi](<.LAPORAN HASIL DOKUMENTASI TEST SELENIUM_1214040_MARLINA.pdf>) |
+| Sign Up Pengguna | Berhasil ✔ | [dokumentasi](<./LAPORAN HASIL DOKUMENTASI TEST SELENIUM_1214040_MARLINA.pdf>) |
 
 # Panduan Penggunaan
 
