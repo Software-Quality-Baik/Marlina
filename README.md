@@ -1,8 +1,8 @@
 # Daftar Pengujian
 
-| No  | Judul Projek        | Introduction                                                       | Audience | Nama Pengujian                | Link SQA                                                                                             |
-| --- | ------------------- | ------------------------------------------------------------------ | -------- | ----------------------------- | ---------------------------------------------------------------------------------------------------- |
-| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat. | User   | test1-signup_pengguna --> Login --> Dashboard | [test1](https://github.com/Software-Quality-Baik/Marlina/tree/main/HealHerooApp/Test_signUpHealHeroo) |
+| No  | Judul Projek                              | Introduction                                                                                                                             | Audience | Nama Pengujian                                | Link SQA                                                                                              |
+| --- | ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- | --------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | [HealHeroo Apps](https://healhero.my.id/) | Ini adalah aplikasi yang dapat digunakan untuk melihat artikel kesehatan, melakukan pemeriksaan kesehatan, dan melakukan pembelian obat. | User     | test1-signup_pengguna --> Login --> Dashboard | [test1](https://github.com/Software-Quality-Baik/Marlina/tree/main/HealHerooApp/Test_signUpHealHeroo) |
 
 # Panduan Penggunaan
 
@@ -40,5 +40,3 @@ Sebelum menggunakan kode ini, pastikan Anda telah memenuhi persyaratan berikut:
    ```
 
 3. Tunggu hingga pengujian selesai dieksekusi. Hasil pengujian akan ditampilkan di terminal.
-
-## Selamat! Anda telah menemukan cara untuk membuat hidup Anda lebih mudah dengan mengotomatiskan pengujian aplikasi web menggunakan kode ini. Sekarang, waktu luang Anda dapat digunakan untuk hal-hal yang lebih menyenangkan!
